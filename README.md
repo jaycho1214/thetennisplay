@@ -26,11 +26,14 @@ thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예�
 
 ### Method 1 (PyPI)
 `pip install thetennisplay`
+
 `python -m thetennisplay`
 
 ### Method 2 (직접 Build하기)
 `git clone https://github.com/jaycho1214/thetennisplay`
+
 `pip install .`
+
 `python -m thetennisplay`
 
 
@@ -40,7 +43,9 @@ thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예�
 
 ### 계정 (필수)
 `--username 이메일`
+
 `--password 비밀번호`
+
 [thetennisplay](https://www.thetennisplay.com)에 로그인할 때 사용되는 계정입니다. 계정은 로그인 할때만 사용되며 어떠한 형태로도 저장되지 않습니다 :)
 
 **카카오 로그인은 현재 지원하지 않습니다**
@@ -55,8 +60,11 @@ thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예�
 * `동작주차공원 테니스장`
 
 `--date [날짜 (YYYY-MM-DD)]`
+
 예약할려는 날짜를 년-월-일 (예: 2023-10-16)로 입력하면 이때 비어있는 코트를 확인합니다
+
 `--hour [시간]`
+
 예약할려는 시간을 `14`또는 `14-18`와 같이 입력하면 이때 시간이 나는 경우 소리로 알려줍니다. 위 값이 없을경우 그 시간대에 아무 시간이나 자리가 있으면 알려줍니다
 
 ## 👏 How to Contribute
@@ -66,5 +74,4 @@ thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예�
 
 ## 📄 License
 
-[MIT License]
-(https://github.com/jaycho1214/thetennisplay/blob/main/LICENSE)
+[MIT License](https://github.com/jaycho1214/thetennisplay/blob/main/LICENSE)
