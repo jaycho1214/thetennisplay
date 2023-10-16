@@ -9,7 +9,7 @@
   <strong>더 이상 자리 없어서 🎾 못치는 경우는 그만</strong><br>
 </p>
 
-thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예약 사이트)에서 자리가 났을 때 알려주는 프로그램 입니다
+thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예약 사이트)에서 자리가 났을 때 알려주는 프로그램 입니다
 
 ## Contents
 
@@ -70,7 +70,7 @@ thetennisplay은 [thetennisplay](https://www.thetennisplay.com) (테니스 예�
 ## 👏 How to Contribute
 
 발견된 문제나 피드백은 여기로 알려주세요 :)
-[제보하기](https://github.com/jaycho1214/thetennisplay/issues)
+[제보하기](https://github.com/jaycho1214/thetennisplay/issues)
 
 ## 📄 License
 
